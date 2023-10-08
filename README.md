@@ -32,13 +32,11 @@ ___
 Так выглядит ветвление в IntillJ IDEA:
 ![IntillJ IDEA](Pict_from_Idea.png)
 
-
 Так выглядит ветвление в GitHub:
-
+![IntillJ IDEA](Pict_from_GitHub.png)
 
 Так выглядит ветвление в gitk:
+![IntillJ IDEA](Pict_from_gitk.png)
 
-
-
-
+___
 ###### CПАСИБО ЗА ВНИМАНИЕ !!!
