@@ -30,7 +30,7 @@ ___
 
 # Результат.
 Так выглядит ветвление в IntillJ IDEA:
-![IntillJ IDEA](https://ibb.co/hsbqf4q)
+![IntillJ IDEA](Pict_from_Idea.png)
 
 
 Так выглядит ветвление в GitHub:
